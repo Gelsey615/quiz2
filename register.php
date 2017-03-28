@@ -5,7 +5,7 @@
 ?>
 <!doctype html>
 <html>
-	<head>
+	<head> 
     <title>Registration</title>
 		<meta name="author" content="Xinyue Guo">
 		<link rel="stylesheet" type="text/css" href="css/style.css" />
